@@ -41,7 +41,7 @@ Hope it comes in handy.
 
 ## 📁 Folder Structure
 
-Each topic has its own folder, for example:
+Each topic has its own folder
 
 
 
