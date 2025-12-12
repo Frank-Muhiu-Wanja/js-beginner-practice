@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana;
+  font-size: 2em;
+}
+
+.box {
+  /* border: solid 1px; */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bttn {
+  width: 150px;
+  padding: 10px 20px;
+  color: black;
+  font-weight: 700;
+  background-color: blanchedalmond;
+}
