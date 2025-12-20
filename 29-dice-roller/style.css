@@ -1,0 +1,43 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#container {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: crimson;
+  border-radius: 1em;
+  box-shadow: 2px 2px 2px;
+  max-width: 700px;
+  min-width: 500px;
+}
+button {
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  background: blue;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.dice {
+  font-size: 3em;
+}
+button:hover {
+  background-color: rgb(36, 36, 249);
+}
+button:active {
+  background: rgb(2, 2, 86);
+}
+input {
+  font-size: 2rem;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+}
