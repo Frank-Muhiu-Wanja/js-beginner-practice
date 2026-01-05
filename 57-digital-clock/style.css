@@ -1,0 +1,27 @@
+body {
+  border: solid;
+  margin: 0;
+  background-image: url(uwp4953122.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#clock {
+  font-family: monospace;
+  font-size: 6.5em;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  text-shadow: 8px 10px 4px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(3px);
+  width: 100%;
+  /* background-color: rgb(255, 255, 255); */
+}
